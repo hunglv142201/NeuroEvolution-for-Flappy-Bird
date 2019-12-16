@@ -15,6 +15,6 @@ Each of them has an unique (randomize) brain, because of that, some of them will
 
 We will take the best ones to breed a new generation using offspring and mutate method
 
-The next generation are children of the best ones in the previous generation, it makes sense that they will perform better than the previous one, of course there will be some in the new generation performing poorly but we, playing as the god, will eliminate the poor ones and use the best ones to generate the next generation
+The next generation are children of the best ones in the previous generation, it makes sense that overall they will perform better than the previous one, of course there will be some in the new generation performing poorly but we, playing as the god, will eliminate the poor ones and use the best ones to generate the next generation
 
 And we will keep doing that until the birds will be smart enough to beat the game !
